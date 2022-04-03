@@ -1,0 +1,1 @@
+console.long('Helllo Prime! good to see you!');
